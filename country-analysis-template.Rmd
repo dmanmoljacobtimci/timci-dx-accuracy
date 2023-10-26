@@ -22,7 +22,7 @@ library(plyr)
 library(dplyr)
 
 # Define country
-country <- ""
+country <- "India"
 
 # Read in (cleaned) data using file choose
 ```
